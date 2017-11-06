@@ -4,8 +4,8 @@ If yes, dirty chai is for you:
 
 Matchers specifically designed to help you get some rage out:
 
-#API
-###fucking: 
+# API
+### fucking: 
 you can pretend you are yelling
 
 usage:
@@ -18,7 +18,7 @@ Also comes in capitalized form
 `expect(true).to.FUCKING.be.true`
 
 
-###just
+### just
 for those moments where you just fucking need it to work
 
 usage:
