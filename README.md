@@ -11,7 +11,7 @@ If yes, dirty chai is for you:
 ```
 import chai from 'chai'
 import dirtyChai from 'very-dirty-chai'
-chai.use(chaiAlmost());
+chai.use(dirtyChai());
 ```
 
 Matchers specifically designed to help you get some rage out:
