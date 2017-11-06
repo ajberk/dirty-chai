@@ -23,6 +23,7 @@ for those moments where you just fucking need it to work
 
 usage:
 `expect(true).to.just.fucking.be.true`
+`expect(true).to.fucking.JUST.be.true`
 
 
 
