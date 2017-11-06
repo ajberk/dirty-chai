@@ -1,4 +1,5 @@
-[logo]: https://travis-ci.org/ajberk/dirty-chai.svg?branch=master
+
+[![travis](https://travis-ci.org/ajberk/dirty-chai.svg?branch=master)](https://travis-ci.org/ajberk/dirty-chai)
 
 
 Do you ever feel exaspirated? Mad at your coworkers? Mad at javascript? Do you ever want a way to express your feelings while also writing tested, maintainable code?
