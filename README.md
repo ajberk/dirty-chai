@@ -1,10 +1,16 @@
 
 [![travis](https://travis-ci.org/ajberk/dirty-chai.svg?branch=master)](https://travis-ci.org/ajberk/dirty-chai)
 
+https://www.npmjs.com/package/very-dirty-chai
+
 
 Do you ever feel exaspirated? Mad at your coworkers? Mad at javascript? Do you ever want a way to express your feelings while also writing tested, maintainable code?
 
 If yes, dirty chai is for you:
+
+import chai from 'chai'
+import dirtyChai from 'very-dirty-chai'
+chai.use(chaiAlmost());
 
 Matchers specifically designed to help you get some rage out:
 
