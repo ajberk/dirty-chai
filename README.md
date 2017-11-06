@@ -10,7 +10,9 @@ you can pretend you are yelling
 
 usage:
 
-`expect(true).to.fucking.be.true \n expect(false).to.be.fucking.false`
+`expect(true).to.fucking.be.true`
+
+`expect(false).to.be.fucking.false`
 
 Also comes in capitalized form
 
@@ -21,7 +23,9 @@ Also comes in capitalized form
 for those moments where you just fucking need it to work
 
 usage:
-`expect(true).to.just.fucking.be.true \n expect(true).to.fucking.JUST.be.true`
+`expect(true).to.just.fucking.be.true`
+
+`expect(true).to.fucking.JUST.be.true`
 
 
 
